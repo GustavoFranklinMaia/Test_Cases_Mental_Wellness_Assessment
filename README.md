@@ -1,12 +1,26 @@
-# 🧪 Mental Wellness Assessment – QA Test Documentation
+# 🐞 Bug Report – Mental Wellness Assessment
 
-This repository contains the manual QA test documentation for the **Mental Wellness Assessment** platform, as part of the application process for a QA Manual Tester role.
+This repository contains the bug report and testing evidence collected during exploratory testing of the **Mental Wellness Assessment** platform.
 
-## 🔍 Objective
+## 🔍 Scope
 
-To evaluate and validate the user experience, input validations, and behavior of the Mental Wellness Assessment located at:
+The goal was to explore and evaluate the Mental Wellness Assessment user experience, input validation, flow, and stability across devices and browsers.
 
-**[https://partner-dev.hellolunajoy.com/](https://partner-dev.hellolunajoy.com/)**
+## 📄 Files
 
-## 📂 Repository Structure
+- **[bug-report.md](./bug-report.md):** List of bugs found during functional and exploratory testing, including steps to reproduce, severity, and expected vs. actual results.
 
+## 🧪 Test Data
+
+- Sample names: `Silver Test`, `Mary Test`, etc.
+- Phone numbers from: [https://temp-number.com/countries/United-States](https://temp-number.com/countries/United-States)
+
+## 👤 Author
+
+**Gustavo Franklin Maia Cosme Oliveira**  
+QA Engineer 
+
+---
+
+> ✅ All issues were tested on the dev version of the platform:  
+> https://partner-dev.hellolunajoy.com/
